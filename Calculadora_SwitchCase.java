@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class calculadora_switchcase
+public class Calculadora_SwitchCase
 {
   public static void main (String[]args)
   {
