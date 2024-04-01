@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CSC
+public class calculadora_switchcase
 {
   public static void main (String[]args)
   {
