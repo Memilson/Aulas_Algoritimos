@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Aulas_Algoritimos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jarvisscript.zip!/" />
+      <root url="jar://$PROJECT_DIR$/calcular-area.zip!/" />
+      <root url="jar://$PROJECT_DIR$/numeros-pares-entre-25-e-200.zip!/" />
+      <root url="jar://$PROJECT_DIR$/5-raizes-quadradas.zip!/" />
+      <root url="jar://$PROJECT_DIR$/estrelaxumbante.zip!/" />
+      <root url="jar://$PROJECT_DIR$/incremento.zip!/" />
+      <root url="jar://$PROJECT_DIR$/somador-com-repeticao-continua.zip!/" />
+      <root url="jar://$PROJECT_DIR$/velocidade.zip!/" />
+      <root url="jar://$PROJECT_DIR$/intervalos.zip!/" />
+      <root url="jar://$PROJECT_DIR$/contador-pecas.zip!/" />
+      <root url="jar://$PROJECT_DIR$/calculadora-com-switch-case.zip!/" />
+      <root url="jar://$PROJECT_DIR$/intervalos2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
