@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        showdomeiao jogo = new showdomeiao();
+        playroom jogo = new playroom();
         Scanner selecionarQuestao = new Scanner(System.in);
         System.out.println("Selecione a dificuldade");
         System.out.println("1 - Facil");
@@ -12,16 +12,15 @@ public class Main {
         System.out.println("3 - Dificil");
         switch (selecionarQuestao.nextInt()) {
             case 1:
-                jogo.playroomEasy();
+                jogo.playroomeasy();
                 break;
             case 2:
-                jogo.playroomMedium();
+                jogo.playroommedium();
                 break;
             case 3:
-                jogo.playroomHard();
+                jogo.playroomhard();
                 break;
-            case 4:
-                jogo.playroomGeral();
+            default:
                 break;
         }
     }
