@@ -21,7 +21,7 @@ public class Main {
                 jogo.playroomhard();
                 break;
             default:
-                break;
+                break
         }
     }
 }
